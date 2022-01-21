@@ -48,7 +48,7 @@ puppet/
 
 ## Copy This Repo Into Your Own Git Server
 
-To get started with using the control-repo template in your own environment and git server, we've provided steps for a common servers we see: [GitHub](#github).
+To get started with using the control-repo template in your own environment and git server, we've provided steps for a common servers: [GitHub](#github).
 
 ### GitHub
 
